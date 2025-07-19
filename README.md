@@ -15,10 +15,6 @@ todo-fullstack/
 ├── frontend/ # React + Vite frontend
 └── README.md
 
-markdown
-Copy
-Edit
-
 ---
 
 ## 🚀 Features
