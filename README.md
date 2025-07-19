@@ -84,5 +84,3 @@ npm install
 
 # Run the Vite dev server
 npm run dev
-The frontend runs at:
-📍 http://localhost:5173
