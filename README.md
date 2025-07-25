@@ -11,8 +11,8 @@ This is a full-stack Todo application built with:
 
 todo-fullstack/
 │
-├── Todo-Backend/ # ASP.NET Core Web API backend
-├── frontend/ # React + Vite frontend
+├── Todo-Backend/  ASP.NET Core Web API backend
+├── frontend/  React + Vite frontend
 └── README.md
 
 ---
@@ -20,7 +20,7 @@ todo-fullstack/
 ## 🚀 Features
 
 ### ✅ Backend
-- Built with **ASP.NET Core Web API***
+- Built with **ASP.NET Core Web API**
 - Uses **EF Core** with **Pomelo.EntityFrameworkCore.MySql**
 - Follows **Repository Pattern** for clean separation of concerns
 - Connected to **MySQL database**
