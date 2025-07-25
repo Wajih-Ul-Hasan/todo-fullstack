@@ -20,7 +20,7 @@ todo-fullstack/
 ## 🚀 Features
 
 ### ✅ Backend
-- Built with **ASP.NET Core Web API**
+- Built with **ASP.NET Core Web API***
 - Uses **EF Core** with **Pomelo.EntityFrameworkCore.MySql**
 - Follows **Repository Pattern** for clean separation of concerns
 - Connected to **MySQL database**
